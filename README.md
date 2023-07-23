@@ -1,4 +1,5 @@
-# MachineLearningProjects
+# MachineLearningProjects 
+>** Explaining the predictions of any machine learning classifier**
 ### 1. Wine dataset, classification models comparison
  ----------------------------------------------
 > Used different classifiers to compare, top most important features
